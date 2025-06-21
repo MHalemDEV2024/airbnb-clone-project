@@ -133,3 +133,64 @@ Clearly defined roles and responsibilities are essential for collaboration, acco
 Each team member plays a crucial role in delivering a reliable, user-friendly, and functional product that reflects the goals of the AirBnB Clone.
 
 ---
+
+## 🧩 UI Component Patterns
+
+To ensure modularity, consistency, and reusability across the AirBnB Clone project, the UI will be built using a set of well-defined components. These components will follow design principles aligned with the Figma mockups and modern frontend best practices.
+
+### 🔹 Planned Components
+
+---
+
+### 🔸 Navbar
+
+**Purpose:** Provides site-wide navigation and access to user actions.
+
+**Elements:**
+
+- Logo
+- Search bar
+- Navigation links (e.g., Home, Listings, Login)
+- User avatar/dropdown
+- Responsive menu toggle (for mobile)
+
+---
+
+### 🔸 Property Card
+
+**Purpose:** Displays a summary of individual property listings on the home or search results page.
+
+**Elements:**
+
+- Property image
+- Title and short description
+- Price per night
+- Location and rating
+- Favorite/heart icon
+- Responsive design for mobile view
+
+---
+
+### 🔸 Footer
+
+**Purpose:** Provides informational links and branding at the bottom of every page.
+
+**Elements:**
+
+- About, Terms of Service, Privacy Policy
+- Social media icons
+- Company info (e.g., © year, name)
+- Language and currency selectors (if applicable)
+
+---
+
+These components will be developed with a focus on:
+
+- **Reusability:** Designed for reuse across multiple views
+- **Accessibility:** Following WCAG standards
+- **Responsiveness:** Works seamlessly on mobile and desktop devices
+- **Maintainability:** Written with clean and well-documented code
+
+As the project evolves, additional components like modals, buttons, input fields, and booking summaries will be created and integrated based on functionality needs.
+
+---
