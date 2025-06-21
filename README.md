@@ -74,7 +74,6 @@ Key benefits of good UI/UX design:
 By focusing on usability, responsiveness, and accessibility, we aim to provide a pleasant and reliable experience that mirrors the standards of industry-leading platforms like AirBnB.
 
 ---
----
 
 ### 🎨 Figma Design Specifications
 
@@ -113,5 +112,24 @@ Key reasons to identify these properties:
 - ✅ **User Trust**: A polished and consistent UI increases user confidence and satisfaction.
 
 By referring to the mockup’s properties, we stay aligned with the original vision and deliver a professional, high-quality user experience.
+
+---
+
+## 👥 Project Roles and Responsibilities
+
+Clearly defined roles and responsibilities are essential for collaboration, accountability, and ensuring the project's success. Below are the key roles within this AirBnB Clone Project and their respective contributions:
+
+| **Role**              | **Responsibilities**                                                                 |
+|-----------------------|---------------------------------------------------------------------------------------|
+| **Project Manager**   | Oversees the entire project lifecycle, ensures timelines are met, manages communication among team members, and tracks deliverables. |
+| **Frontend Developers** | Implement the user interface based on Figma designs using HTML, CSS, JavaScript, and frameworks like React. Ensure responsive design and a seamless user experience. |
+| **Backend Developers** | Develop and maintain server-side logic, APIs, and database integration. Handle user authentication, data storage, and business logic. |
+| **Designers**         | Create the UI/UX layout, design components, define color schemes, typography, and ensure consistency across all screens using tools like Figma. |
+| **QA/Testers**        | Write test cases, identify bugs, conduct usability testing, and ensure overall software quality before deployment. |
+| **DevOps Engineers**  | Set up and manage CI/CD pipelines, deployment workflows, server infrastructure, and version control practices to ensure smooth delivery. |
+| **Product Owner**     | Represents the users and stakeholders, defines the product vision, prioritizes features, and ensures the project aligns with user needs. |
+| **Scrum Master**      | Facilitates agile ceremonies (e.g., daily stand-ups, sprint reviews), removes team blockers, promotes agile best practices, and ensures progress tracking. |
+
+Each team member plays a crucial role in delivering a reliable, user-friendly, and functional product that reflects the goals of the AirBnB Clone.
 
 ---
