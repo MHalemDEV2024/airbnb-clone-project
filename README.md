@@ -74,3 +74,44 @@ Key benefits of good UI/UX design:
 By focusing on usability, responsiveness, and accessibility, we aim to provide a pleasant and reliable experience that mirrors the standards of industry-leading platforms like AirBnB.
 
 ---
+---
+
+### 🎨 Figma Design Specifications
+
+#### 🎨 Color Styles
+
+- **Primary Color**: `#FF5A5F` – used for main actions (e.g., buttons, highlights)
+- **Secondary Color**: `#008489` – used for accents and secondary actions
+- **Background Color**: `#FFFFFF` – default background for all pages
+- **Text Color**: `#222222` – primary text color for readability
+- **Secondary Text Color**: `#717171` – used for hints, labels, and secondary info
+
+#### 🅰️ Typography
+
+- **Primary Font Family**: Circular (or similar sans-serif font like "Poppins" or "Inter")
+- **Font Weights**:
+  - `Bold (700)` – for headings and call-to-action text
+  - `Medium (500)` – for subheadings and buttons
+  - `Book (400)` – for body text and descriptions
+- **Font Sizes**:
+  - **Headings**: `24px – 32px`
+  - **Body Text**: `16px`
+  - **Secondary Text**: `14px`
+
+---
+
+### 🧠 Why Identifying Design Properties Matters
+
+Understanding and extracting design properties like **color styles**, **font choices**, and **component layouts** from a Figma mockup is essential for creating a visually consistent and user-friendly interface.
+
+Key reasons to identify these properties:
+
+- ✅ **Consistency**: Ensures that every page and component follows the same visual guidelines.
+- ✅ **Efficiency**: Helps developers avoid guesswork and speeds up front-end implementation.
+- ✅ **Scalability**: A consistent design system makes it easier to add new features without redesigning from scratch.
+- ✅ **Collaboration**: Aligns designers and developers with shared language and expectations.
+- ✅ **User Trust**: A polished and consistent UI increases user confidence and satisfaction.
+
+By referring to the mockup’s properties, we stay aligned with the original vision and deliver a professional, high-quality user experience.
+
+---
